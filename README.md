@@ -1,16 +1,28 @@
-# onboarding_vol_1
+# Onboarding Volume 1
 
-A new Flutter project.
+Brand new Flutter Onboarding Screen
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### 1. Copy or Download code in your system 
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/Flutter-Codes/Flutter-Onboarding-Screen-Vol-1.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 2. Got To Directry
+```
+cd Flutter-Onboarding-Screen-Vol-1
+```
+#### 3. Run Flutter App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
+
+## Screenshot
+| Screen 1        |  Screen 2           |  Screen 3  |
+| :-------------: |:-------------:| :-----:|
+| ![Google Search Clone](/screenshot/On-Boarding-1.jpg)     | ![Google Search Clone](/screenshot/On-Boarding-2.jpg) | ![Google Search Clone](/screenshot/On-Boarding-3.jpg) |
+
+
