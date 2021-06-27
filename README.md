@@ -2,6 +2,10 @@
 
 Brand new Flutter Onboarding Screen
 
+### APk Demo
+
+[Download](https://github.com/Flutter-Codes/Flutter-Onboarding-Screen-Vol-1/releases/download/Demo/app-release.apk)
+
 ## Getting Started
 
 #### 1. Copy or Download code in your system 
@@ -10,7 +14,7 @@ Brand new Flutter Onboarding Screen
 git clone https://github.com/Flutter-Codes/Flutter-Onboarding-Screen-Vol-1.git
 ```
 
-### 2. Got To Directry
+#### 2. Got To Directry
 ```
 cd Flutter-Onboarding-Screen-Vol-1
 ```
